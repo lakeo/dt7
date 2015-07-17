@@ -53,9 +53,6 @@ if ( ! defined( 'ABSPATH' ) ) { exit; }
 
 							<?php
 							echo $copyrights;
-							if ( $credits ) {
-								echo '索尔眼镜';
-							}
 							?>
 
 						</div>
